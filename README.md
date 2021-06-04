@@ -1,4 +1,4 @@
-![](https://github.com/clauskovacs/actions-test/workflows/Project%20Tests/badge.svg)
+![](https://github.com/clauskovacs/actions-test/workflows/Github%20Actions%20CI%20Test/badge.svg)
 
 # actions-test
 
