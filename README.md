@@ -1,6 +1,6 @@
-![](https://github.com/clauskovacs/actions-test/workflows/Github%20Actions%20CI%20Test/badge.svg)
+![](https://github.com/clauskovacs/github-actions-test/workflows/Github%20Actions%20CI%20Test/badge.svg)
 
-# actions-test
+# github-actions-test
 
-Testing continuous integration using Github Actions
+Testing continuous integration using Github Actions on python.
 
